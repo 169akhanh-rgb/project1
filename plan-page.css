@@ -7,9 +7,8 @@ body {
   font-family: Lato, sans-serif;
   background-image: url("images/plan-page.jpg");
   font-size: 16px;
-  width: 1000px;
+  width: 1180px;
   margin: 0 auto; 
-  border:5px solid red;
 }
 
 section {
